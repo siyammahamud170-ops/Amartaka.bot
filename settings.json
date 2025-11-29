@@ -1,0 +1,28 @@
+{
+  "site_on": true,
+  "deposit_open": true,
+  "withdraw_open": true,
+  "packages": [
+    {
+      "id": "p1",
+      "name": "Starter Pack",
+      "price": 100.0,
+      "profit": 110.0,
+      "duration_days": 7,
+      "active": true
+    },
+    {
+      "id": "p2",
+      "name": "Pro Pack",
+      "price": 500.0,
+      "profit": 600.0,
+      "duration_days": 14,
+      "active": true
+    }
+  ],
+  "rates": {
+    "referral_percent": 5,
+    "withdraw_fee_percent": 0
+  },
+  "broadcast_message": ""
+}
